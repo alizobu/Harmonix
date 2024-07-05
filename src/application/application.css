@@ -1,0 +1,132 @@
+#text1:hover {
+    -fx-text-fill: #FFFFFF;
+}
+#text1 {
+    -fx-text-fill: #f29f1b;
+}
+#girisbtn:hover {
+    -fx-background-color: #FFA500;
+    -fx-text-fill: #000000; 
+}
+#girisbtn{
+	-fx-text-fill:white;
+}
+#listelebtn:hover {
+    -fx-background-color: #FFA500;
+    -fx-text-fill: #000000; 
+}
+#listelebtn{
+	-fx-text-fill:white;
+}
+#kayitbtn:hover {
+    -fx-background-color: #FFA500;
+    -fx-text-fill: #000000; 
+}
+#sonuclarTextArea{
+	-fx-control-inner-background: #242424;
+    -fx-text-fill: #8f8f8e;
+}
+#kayitbtn{
+	-fx-text-fill:white;
+}
+.slider .thumb {
+    -fx-background-color: transparent;
+}
+.slider:hover .thumb{
+	-fx-background-color: #f29f1b;
+}
+.slider .track {
+    -fx-background-color: #8F8F8E; 
+}
+#sarkitxt {
+    -fx-underline: false; 
+}
+
+#sarkitxt:hover {
+    -fx-underline: true;
+    
+}
+.slider .filled {
+    -fx-background-color: white; 
+}
+#sarkitxt:hover .text {
+    -fx-underline: true;
+}
+#sanatcitxt {
+    -fx-underline: false; 
+}
+
+#sanatcitxt:hover {
+    -fx-underline: true;
+}
+#sarkisayisilbl:hover .text {
+    -fx-underline: true;
+}
+#sarkisayisilbl {
+    -fx-underline: false; 
+}
+#kullaniciadilbl:hover .text {
+    -fx-underline: true;
+}
+#kullaniciadilbl {
+    -fx-underline: false; 
+}
+#sound {
+    -fx-fill: transparent; 
+}
+#aratxt{
+	-fx-text-fill: white;
+}
+#aratxt:hover {
+    -fx-background-color: #2A2A2A;
+    -fx-background-radius: 20;
+    -fx-border-color: #3C3C3C;
+    -fx-border-radius: 20; 
+}
+.mzkslider .track {
+    -fx-background-color: white;
+}
+#logooturum:hover {
+    -fx-font-size: 50pt;
+    -fx-font-family: "Jersey 10";
+}
+#logooturum {
+    -fx-font-size: 48pt;
+    -fx-font-family: "Jersey 10";
+}
+#logokayit:hover {
+    -fx-font-size: 50pt;
+    -fx-font-family: "Jersey 10";
+}
+#logokayit {
+    -fx-font-size: 48pt;
+    -fx-font-family: "Jersey 10";
+}
+#logogiris:hover {
+    -fx-font-size: 50pt;
+    -fx-font-family: "Jersey 10";
+}
+#logogiris {
+    -fx-font-size: 48pt;
+    -fx-font-family: "Jersey 10";
+}
+#oturumkapabtn:hover{
+	-fx-text-fill:black;
+}
+#oturumkapabtn{
+	-fx-text-fill:white;
+}
+#oturumdevambtn:hover{
+	-fx-text-fill:black;
+}
+#oturumdevambtn{
+	-fx-text-fill:white;
+}
+.label-style {
+    -fx-font-size: 14px;
+    -fx-text-fill: white;
+}
+
+.label-style:hover {
+    -fx-text-fill: #FFA500;
+}
